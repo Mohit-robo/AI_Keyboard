@@ -1,5 +1,7 @@
 ﻿# AI_Keyboard
 
+📷 Video Link:
+    https://www.youtube.com/channel/UCOvwzcPbVfh_UrUUgd7odww
 📝 DESCRIPTION:
 
 This repository represents “AI keyboard”.
@@ -19,6 +21,7 @@ computer vision library OpenCV.
     • pip install mediapipe
 
  🖱 Demo
+
 
     • git clone https://github.com/Mohit-robo/AI_Keyboard.git
     • cd AI_Keyboard
